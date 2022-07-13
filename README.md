@@ -16,7 +16,7 @@
      target='_blank'
      style='text-decoration: none'>
     <img alt='Email'
-         src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=18A558'>
+         src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'>
   </a>
   <a href='https://www.linkedin.com/in/dimagi-perera-63a40521a/'
      target='_blank'
