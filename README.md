@@ -24,6 +24,12 @@
     <img alt='LinkedIn'
          src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
   </a>
+  <a href='https://medium.com/@dimaginipunika'
+     target='_blank'
+     style='text-decoration: none'>
+    <img alt='Website'
+         src='https://img.shields.io/badge/-Medium-0D1117?style=for-the-badge&logo=medium&logoColor=F0DB4F'>
+  </a>
   
   
 </div>
